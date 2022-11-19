@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/tailblog.iml" filepath="$PROJECT_DIR$/.idea/tailblog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/taillwind_saas.iml" filepath="$PROJECT_DIR$/.idea/taillwind_saas.iml" />
     </modules>
   </component>
 </project>

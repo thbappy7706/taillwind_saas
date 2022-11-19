@@ -1,32 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="061e11f7-f2d1-4006-bee7-ddfd657c0b63" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/output.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/tailwind" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/tailwind" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/tailwindcss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/tailwindcss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/defaultTheme.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/defaultTheme.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/cli.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/corePlugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/corePlugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/defaultExtractor.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/defaultExtractor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/evaluateTailwindFunctions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/evaluateTailwindFunctions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/generateRules.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/generateRules.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/setupContextUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/setupContextUtils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/formatVariantSelector.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/formatVariantSelector.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/peers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/peers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/scripts/generate-types.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/scripts/generate-types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/corePlugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/src/corePlugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/defaultExtractor.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/defaultExtractor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/evaluateTailwindFunctions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/evaluateTailwindFunctions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/generateRules.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/generateRules.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/setupContextUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/setupContextUtils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/formatVariantSelector.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/formatVariantSelector.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/types/config.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/types/config.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-utility-first/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-utility-first/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,21 +36,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.PHP"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
